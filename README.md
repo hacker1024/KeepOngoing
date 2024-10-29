@@ -17,8 +17,7 @@ a security patch level of November 2023. Other OEMs are not so quick to update t
 Android revisions, though: My Motorola Edge 30 Pro with the August 2024 security patch
 is still based on a compatible version.
 
-If you unsure, you can try this module without concern; it is designed to fail
-gracefully.
+If you are unsure, you can try this module without concern; it is designed to fail gracefully.
 
 The reason for this limitation is that Google kept the old behaviour behind a flag when
 they [first introduced the change](https://android.googlesource.com/platform/frameworks/base/+/6afb4824218b721f190e250b3c343380d2637ff6)
